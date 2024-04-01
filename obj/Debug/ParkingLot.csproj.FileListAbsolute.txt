@@ -1,0 +1,13 @@
+D:\Visual projects\ParkingLot\bin\Debug\ParkingLot.exe.config
+D:\Visual projects\ParkingLot\bin\Debug\ParkingLot.exe
+D:\Visual projects\ParkingLot\bin\Debug\ParkingLot.pdb
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.csproj.AssemblyReference.cache
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.Properties.Resources.resources
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.csproj.GenerateResource.cache
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.exe
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.pdb
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.Cars.resources
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.Login.resources
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.Parking.resources
+D:\Visual projects\ParkingLot\obj\Debug\ParkingLot.Places.resources
